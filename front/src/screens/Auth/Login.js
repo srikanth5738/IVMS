@@ -24,21 +24,21 @@ const Card = styled(MuiCard)(({theme}) => ({
 }));
 
 const users = [
-    {
-        name: 'Admin',
-        email: 'merakiadmin@example.com',
-        password: 'merakiadmin'
-    },
-    {
-        name: 'Human Resource',
-        email: 'merakihrmanager@example.com',
-        password: 'merakihrmanager'
-    },
-    {
-        name: 'Department Manager',
-        email: 'merakiopmanager@example.com',
-        password: 'merakiopmanager'
-    },
+    // {
+    //     name: 'Admin',
+    //     email: 'merakiadmin@example.com',
+    //     password: 'merakiadmin'
+    // },
+    // {
+    //     name: 'Human Resource',
+    //     email: 'merakihrmanager@example.com',
+    //     password: 'merakihrmanager'
+    // },
+    // {
+    //     name: 'Department Manager',
+    //     email: 'merakiopmanager@example.com',
+    //     password: 'merakiopmanager'
+    // },
     {
         name: 'Staff',
         email: 'merakistaffmarketing@example.com',
